@@ -7,6 +7,7 @@
 * Some surprising discoveries from my family’s progress
 
 ##Why Bother?
+
 A few weeks ago Red Hat hosted a talk by CompostNow.  In their promotional video one phrase really stuck with me, “Humans are insane”.  They made this claim in the light of the fact we’re the most intelligent species on the planet yet we’re the only ones who don’t know how to handle our own waste.  I’ll build on that and say we’re the one species insane enough to take anything good and totally mess it up for everyone.
 
 Let’s consider plastic.  Modern computing, life saving medical procedures, energy efficient automobiles. You name it, it’s probably better now that it’s made of plastic.  Watch the Summit video from a few years back on open source prosthetics and tell me that doesn’t inspire you to see kids with 3D printed hands picking up toys for the first time.  Before I spend the next 30 minutes or so showing ways to use less plastic let’s just all take a moment to acknowledge the fact that pretty much our entire modern existence owes itself to this magical material.  In fact I'm certain I could praise plastic for the rest our time here and not offend anyone.  If that’s the case why am I getting bent out of shape like an empty tube of toothpaste over plastic.  Why would I or anyone recommend using less of it?
