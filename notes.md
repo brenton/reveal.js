@@ -125,7 +125,6 @@ More Ideas:
 * Plastic Free: https://catalog.wakegov.com/Record/672666
 
 Buying food downtown:
-* https://post-office.corp.redhat.com/mailman/listinfo/fresh-eggs
 * Charles Coats Produce (city market, source of cheese, produce and nuts)
 * Moore Square Market (Wednesdays 4-7pm)
 * Weaver Street Market (coming soon)
